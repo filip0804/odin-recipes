@@ -1,0 +1,21 @@
+* {
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+li {
+    padding-bottom: 5px;
+    font-size: 15px;
+    color: black;
+}
+
+li:hover {
+    color: red;
+    font-size: 18px;
+}
